@@ -1,0 +1,49 @@
+.card-group{
+    padding-top: 2rem;
+}
+.h2{
+    padding-top: 9rem;
+}
+.card-group2{
+    padding-top: 2rem;
+    margin-top: 1rem;
+    padding-left: 3rem;
+}
+.categories{
+    padding-top: 2rem;
+}
+.lg2{
+    padding-top: 25px;
+}
+.topic{
+    padding-left: 3rem;
+}
+.user{
+    padding-left: 3rem;
+}
+.lg1{
+   padding: 3rem;
+}
+.courses{
+    height: 80vh;
+}
+.archiveBtn{
+    padding-top: 15rem;
+
+}
+.btns{
+    padding-top: 1rem;
+}
+.ebooks{
+    text-align: center;
+    padding-top: 9rem;
+    padding-bottom: 2rem;
+    
+}
+.alert{
+    padding: 2rem;
+}
+.contact{
+    text-align: center;
+    padding: 1rem;
+}
